@@ -1,5 +1,6 @@
 <h1>🏭 Factory Manager: Multithreaded Production Line Simulator [C Project]</h1>
-[YouTube Demo & Output Samples]()
+
+### [YouTube Demo & Output Samples]()
 
 <h2>📝 Description</h2>
 Factory Manager is a multithreaded production simulation in C for Linux, developed as part of an Operating Systems lab. It simulates a factory where a main manager coordinates multiple production lines (each with a producer-consumer pair) using POSIX threads, mutexes, condition variables, and semaphores. The objective is to master synchronization, concurrency control, and inter-thread communication using shared circular buffers.
